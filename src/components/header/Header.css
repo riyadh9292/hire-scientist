@@ -1,0 +1,22 @@
+/* this is the full header container */
+.header {
+  min-height: 100px;
+  background-color: #2C3531;
+  color: #EFE2BA;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+/* middle portion of header */
+.big-project {
+  background-color: #EFE2BA;
+  color: #501B1D;
+  font-family: 'Josefin Sans', sans-serif;
+  height: 100%;
+  margin-right: 5px;
+  margin-bottom: 0;
+  border-radius: 10px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+}

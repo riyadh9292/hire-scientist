@@ -1,0 +1,14 @@
+.scientist-card {
+    background:linear-gradient( #f6eac3,#ffd89b);
+    color: #002b50;
+
+}
+.contact-button {
+    background-color: #F79E02;
+    font-size: 1.2rem;
+    width: 100%;
+}
+.contact-button:hover {
+    color: #dfc864;
+    background-color: #002b50;
+}
